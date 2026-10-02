@@ -198,3 +198,20 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+#auth-container {
+  max-width: 500px;
+}
+
+#session-panel p {
+  margin-bottom: 12px;
+}
+
+#signin-required {
+  margin-bottom: 12px;
+  color: #555;
+}
+
+#email-group.hidden {
+  display: none;
+}
